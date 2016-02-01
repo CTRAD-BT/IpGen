@@ -14,10 +14,10 @@ CSI Singapore - NUS
 A/Prof Richie SOONG
 
 #### Support
-[User Guide] (https://github.com/CTRAD-BT/IpGen/wiki/USER-GUIDE)
-
-[Documentation for developers] (https://github.com/CTRAD-BT/IpGen/wiki)
+1. [User Guide] (https://github.com/CTRAD-BT/IpGen/wiki/USER-GUIDE)
+2. [Documentation for developers] (https://github.com/CTRAD-BT/IpGen/wiki)
 
 #### Status
 Filing for NUS Invention Disclosure (patent application)
+
 Source code is currently not available for public use

@@ -15,7 +15,7 @@ A/Prof Richie SOONG
 
 #### Support
 1. [User Guide] (https://github.com/CTRAD-BT/IpGen/wiki/USER-GUIDE)
-2. [Documentation for developers] (https://github.com/CTRAD-BT/IpGen/wiki)
+2. [Documentation for developers] (https://github.com/CTRAD-BT/IpGen/wiki/Development-documentation)
 
 #### Status
 Filing for NUS Invention Disclosure (patent application)

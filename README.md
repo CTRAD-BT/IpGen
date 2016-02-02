@@ -7,7 +7,8 @@ IPGEN: Iterative P-value Generator
 Performs Density Estimation and Log-rank test (Survival analysis) to identify possible sub-populations in multiple sets of data. Clinically, this can be used to segregate a patient sample based on different Bio-marker values.
 
 #### Publisher
-Centre for Translational Research and Diagnostics (CTRAD)
+[Centre for Translational Research and Diagnostics (CTRAD)] (https://www.csi.nus.edu.sg/ws/research/core-facilities-support-technologies/centre-for-translational-research-and-diagnostics-ctrad/centre-for-translational-research-and-diagnostics)
+
 CSI Singapore - NUS
 
 #### Corresponding author
